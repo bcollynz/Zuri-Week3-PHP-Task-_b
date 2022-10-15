@@ -10,7 +10,7 @@
 
 <body>
   <form>
-      <form action="user_data.php" method="POST">
+      <form  method="POST" action="user_data.php" >
         <label for ="name"> Name: <input placeholder="Full Name" type="text" name="name" required></label><br>
         <label for ="email"> Email: <input placeholder="Email" type="email" name="email" required></label><br>
         <label for="gender">Gender:</label>
