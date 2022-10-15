@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <
+  
       <form  method="POST" action="user_data.php">
         <label for ="name"> Name: <input placeholder="Full Name" type="text" name="name" required></label><br><br>
         <label for ="email"> Email: <input placeholder="Email" type="email" name="email" required></label><br><br>
